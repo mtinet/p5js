@@ -38,6 +38,6 @@
  
 **p5js로 만든 동적 웹페이지 패키지를 github를 이용해 바로 웹에 게시하기**  
 (아래 사진을 클릭하세요)  
-[![](https://raw.githubusercontent.com/mtinet/p5js/master/youtube_link.png)](https://www.youtube.com/watch?v=M2IyIdhppaA)
+[![](https://raw.githubusercontent.com/mtinet/p5js/gh-pages/youtube_link.png)](https://www.youtube.com/watch?v=M2IyIdhppaA)
 
-[![](https://raw.githubusercontent.com/mtinet/p5js/master/p5js_github.png)](http://www.youtube.com/v/M2IyIdhppaA)
+[![](https://raw.githubusercontent.com/mtinet/p5js/gh-pages/p5js_github.png)](http://www.youtube.com/v/M2IyIdhppaA)
