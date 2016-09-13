@@ -26,7 +26,7 @@
 [6.5 Adding and removing objects_2](http://mtinet.github.io/p5js/6.5 Adding and removing objects_2)(마우스 드래그하면 오브젝트 갯수를 늘리고, 키보드를 누르면 오브젝트를 하나씩 삭제하기)  
 [6.5 Adding and removing objects_3](http://mtinet.github.io/p5js/6.5 Adding and removing objects_3)(마우스 드래그 하면 오브젝트가 늘어나다가 50개가 넘으면 하나씩 지우기)   
 
-[8.6 API Query with User Input](http://mtinet.github.io/p5js/8.6 API Query with User Input)(http://openweathermap.org/사이트에서 제공하는 API를 사용하여 특정 지역의 온도와 습도를 시각화하기)  
+[8.6 API Query with User Input](http://mtinet.github.io/p5js/8.6 API Query with User Input) (http://openweathermap.org/사이트에서 제공하는 API를 사용하여 특정 지역의 온도와 습도를 시각화하기)  
 
 
 * 소스코드를 바로 다운로드 받으려면 위쪽의 tar(리눅스), zip(윈도우) 버튼을 누르고, 깃허브 원본을 보려면 'View on Github' 버튼을 누르세요.   
